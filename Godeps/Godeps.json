@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/kruemel01/hiqnet-converter",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/kruemel01/hiqnet",
+			"Rev": "9bc9f6e1f4adab3aff7bdd46245112e95a11f6a9"
+		}
+	]
+}
